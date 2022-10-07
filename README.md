@@ -25,3 +25,5 @@ dictionary of graphic values: {'{{logo}}': 'C:\Local Storage\Logos\CompanyA.png'
 1) we iterate through placeholders, search for tags and fill them in with corresponding data
 
 2) save the file with company name
+
+Detailed description on medium https://medium.com/@myroslavaandrunevchyn/modifying-pptx-presentation-in-python-20f69c0e049f
